@@ -49,7 +49,7 @@ mv /etc/resolv.conf /etc/resolv.conf.bak && echo -e "nameserver 2001:67c:2b0::4\
 
 
 ```
-wget --no-check-certificate -O NewReinstall.sh https://git.io/newbetags && chmod a+x NewReinstall.sh && bash NewReinstall.sh
+wget --no-check-certificate -O NewReinstall.sh https://s.id/ddvps && chmod a+x NewReinstall.sh && bash NewReinstall.sh
 ```
 
 
@@ -58,7 +58,7 @@ wget --no-check-certificate -O NewReinstall.sh https://git.io/newbetags && chmod
 
 
 ```
-wget --no-check-certificate -O NewReinstall.sh https://jsd.onmicrosoft.cn/gh/a21922/ddos@master/NewReinstall.sh && chmod a+x NewReinstall.sh && bash NewReinstall.sh
+wget --no-check-certificate -O NewReinstall.sh https://cdn.jsdelivr.net/gh/ddvps/ddvps@master/NewReinstall.sh && chmod a+x NewReinstall.sh && bash NewReinstall.sh
 ```
 
 
