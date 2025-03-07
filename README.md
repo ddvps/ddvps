@@ -58,7 +58,7 @@ wget --no-check-certificate -O NewReinstall.sh https://s.id/ddvps && chmod a+x N
 
 
 ```
-wget --no-check-certificate -O NewReinstall.sh https://cdn.jsdelivr.net/gh/ddvps/ddvps@master/NewReinstall.sh && chmod a+x NewReinstall.sh && bash NewReinstall.sh
+wget --no-check-certificate -O NewReinstall.sh https://cdn.serv00.net/gh/ddvps/ddvps@master/NewReinstall.sh && chmod a+x NewReinstall.sh && bash NewReinstall.sh
 ```
 
 
