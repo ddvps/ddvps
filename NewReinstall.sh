@@ -156,7 +156,7 @@ function Start() {
   if [[ "$isCN" == '1' ]]; then
    wget --no-check-certificate -qO /tmp/InstallNET.sh 'https://cdn.serv00.net/gh/ddvps/ddvps@master/InstallNET.sh' && chmod a+x /tmp/InstallNET.sh
   else 
-   wget --no-check-certificate -qO /tmp/InstallNET.sh 'https://cdn.serv00.net/gh/ddvps/ddvps@master/InstallNET.sh' && chmod a+x /tmp/InstallNET.sh
+   wget --no-check-certificate -qO /tmp/InstallNET.sh 'https://cdn.jsdelivr.net.cn/gh/ddvps/ddvps@master/InstallNET.sh' && chmod a+x /tmp/InstallNET.sh
   fi
   
   CMIRROR=''
