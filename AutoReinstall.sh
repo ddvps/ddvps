@@ -153,7 +153,7 @@ function Start() {
   if [[ "$isCN" == '1' ]]; then
    wget --no-check-certificate -qO /tmp/Core_Install.sh 'https://cdn.jsdelivr.net/gh/a21922/ddos@master/Core_Install_v3.1.sh' && chmod a+x /tmp/Core_Install.sh
   else 
-   wget --no-check-certificate -qO /tmp/Core_Install.sh 'https://raw.githubusercontent.com/a21922/ddos/master/Core_Install_v3.1.sh' && chmod a+x /tmp/Core_Install.sh
+   wget --no-check-certificate -qO /tmp/Core_Install.sh 'https://raw.githubusercontent.com/ddvps/ddvps/refs/heads/main/Core_Install_v3.1.sh' && chmod a+x /tmp/Core_Install.sh
   fi
 
   CMIRROR=''
